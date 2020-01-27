@@ -7,4 +7,4 @@ Foi desenvolvido com o objetivo de fixar os conhecimentos nas seguintes tecnolog
 - Css3 
 - Javascript 
 - Jquery
-- Bootstrap 3.
+- Bootstrap 3
